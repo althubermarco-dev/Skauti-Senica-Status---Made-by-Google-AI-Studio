@@ -13,7 +13,7 @@ Zdrojový kód aplikácie **nie je súčasťou tohto repozitára**.
 Aplikácia je:
 - nasadená pomocou **Netlify**
 - pripojená na externú databázu
-- dostupná na vlastnej doméne **status.skautisenica.sk**
+- dostupná na vlastnej doméne
 - zabezpečená **SSL certifikátom**
 
 Tento repozitár existuje len za účelom:
