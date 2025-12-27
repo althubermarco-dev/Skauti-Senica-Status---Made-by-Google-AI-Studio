@@ -45,6 +45,7 @@ Prosím, uveď:
 ❗ Tento repozitár **neobsahuje zdrojový kód, API kľúče ani citlivé údaje**.
 
 Ak nájdeš **bezpečnostný problém**, prosím **nepublikuj ho verejne v issues**, ale kontaktuj správcu projektu priamo.
+Kontakt nájdete na https://skautisenica.sk/kontakt
 
 ---
 
