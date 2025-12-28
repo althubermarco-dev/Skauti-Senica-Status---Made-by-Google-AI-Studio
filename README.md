@@ -1,4 +1,4 @@
-# Issue Tracker – status.skautisenica.sk
+# Issue Tracker
 
 Tento GitHub repozitár slúži **výhradne ako issue tracker** (hlásenie chýb, návrhov a úloh) pre aplikáciu dostupnú na:
 
