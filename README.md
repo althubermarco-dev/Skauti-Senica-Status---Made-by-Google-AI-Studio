@@ -5,6 +5,7 @@ Tento GitHub repozitár slúži **výhradne ako issue tracker** (hlásenie chýb
 👉 **https://status.skautisenica.sk**
 
 Zdrojový kód aplikácie **nie je súčasťou tohto repozitára**.
+Táto aplikácia nie je voľne šírená. Je využívaná pre interné účely a potreby.
 
 ---
 
